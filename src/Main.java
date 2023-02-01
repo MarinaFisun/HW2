@@ -5,6 +5,7 @@ public class Main {
         task3();
         task4();
         task5();
+        task6();
     }
     public static void task1 () {
         System.out.println("Task 1");
@@ -60,4 +61,5 @@ public class Main {
         frog = frog +4;
         System.out.println(frog);
     }
+
 }
